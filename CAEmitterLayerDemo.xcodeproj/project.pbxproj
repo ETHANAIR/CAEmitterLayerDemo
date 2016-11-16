@@ -264,7 +264,7 @@
 				DEVELOPMENT_TEAM = ZKS3F3WGEW;
 				INFOPLIST_FILE = CAEmitterLayerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ethan.CAEmitterLayerDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.CAEmitterLayerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -277,7 +277,7 @@
 				DEVELOPMENT_TEAM = ZKS3F3WGEW;
 				INFOPLIST_FILE = CAEmitterLayerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ethan.CAEmitterLayerDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.CAEmitterLayerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -302,6 +302,7 @@
 				AA0F1CB01DDC3E76007A5FCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
