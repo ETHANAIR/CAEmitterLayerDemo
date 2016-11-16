@@ -32,6 +32,10 @@ class ViewController: UIViewController {
         let temArray = NSMutableArray.init()
         temArray.add(self.cellWithPoint(points: CGPoint(x: 1, y: 1)))
         temArray.add(self.cellWithPoint(points: CGPoint(x: 1, y: 1)))
+        temArray.add(self.cellWithPoint(points: CGPoint(x: 1, y: 1)))
+        temArray.add(self.cellWithPoint(points: CGPoint(x: 1, y: 1)))
+        temArray.add(self.cellWithPoint(points: CGPoint(x: 1, y: 1)))
+        temArray.add(self.cellWithPoint(points: CGPoint(x: 1, y: 1)))
         
         snowEmitter.emitterCells = NSArray.init(array: temArray) as? [CAEmitterCell]
         self.snowView.layer.insertSublayer(snowEmitter, at: 0)
